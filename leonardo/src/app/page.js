@@ -1,7 +1,12 @@
 export default function Home() {
   return (
-    <div>
-      <h1>hola soy leonardo</h1>
-    </div>
+    <main>
+      <div>
+        <h1>Leonardo guerrero</h1>
+        <p>desarrollador de software</p>
+        
+      </div>
+      <div>foto</div>
+    </main>
   )
 }
